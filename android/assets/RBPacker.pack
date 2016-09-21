@@ -1,0 +1,306 @@
+
+RBPacker.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG
+  rotate: false
+  xy: 1, 119
+  size: 800, 900
+  orig: 800, 900
+  offset: 0, 0
+  index: -1
+backdown
+  rotate: false
+  xy: 1, 77
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+backup
+  rotate: false
+  xy: 803, 979
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+helpbuttondown
+  rotate: false
+  xy: 1, 35
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+helpbuttonup
+  rotate: false
+  xy: 183, 77
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+musicoffdown
+  rotate: false
+  xy: 803, 937
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+musicoffup
+  rotate: false
+  xy: 183, 35
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+musicondown
+  rotate: false
+  xy: 365, 77
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+musiconup
+  rotate: false
+  xy: 803, 895
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+settingbuttondown
+  rotate: false
+  xy: 365, 35
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+settingbuttonup
+  rotate: false
+  xy: 547, 77
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+soundoffdown
+  rotate: false
+  xy: 803, 853
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+soundoffup
+  rotate: false
+  xy: 547, 35
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+soundondown
+  rotate: false
+  xy: 803, 811
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+soundonup
+  rotate: false
+  xy: 803, 769
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+startbuttondown
+  rotate: false
+  xy: 803, 727
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+startbuttonup
+  rotate: false
+  xy: 803, 685
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+continuedown
+  rotate: false
+  xy: 1, 1
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1
+continueup
+  rotate: false
+  xy: 803, 651
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1
+menudown
+  rotate: false
+  xy: 183, 1
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1
+menuup
+  rotate: false
+  xy: 803, 617
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1
+pausebutton
+  rotate: false
+  xy: 803, 515
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+brick
+  rotate: false
+  xy: 803, 475
+  size: 150, 38
+  orig: 150, 38
+  offset: 0, 0
+  index: -1
+spikeboard
+  rotate: false
+  xy: 803, 435
+  size: 150, 38
+  orig: 150, 38
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 729, 57
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bheart
+  rotate: false
+  xy: 905, 555
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+deadball
+  rotate: false
+  xy: 803, 373
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 803, 311
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+
+RBPacker2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG1
+  rotate: false
+  xy: 1, 1
+  size: 800, 900
+  orig: 800, 900
+  offset: 0, 0
+  index: -1
+
+RBPacker3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG2
+  rotate: false
+  xy: 1, 1
+  size: 800, 900
+  orig: 800, 900
+  offset: 0, 0
+  index: -1
+
+RBPacker4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG3
+  rotate: false
+  xy: 1, 1
+  size: 800, 900
+  orig: 800, 900
+  offset: 0, 0
+  index: -1
+
+RBPacker5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+gamescreen
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+RBPacker6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 483
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+RBPacker7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+doubletouch
+  rotate: false
+  xy: 1, 452
+  size: 717, 449
+  orig: 717, 449
+  offset: 0, 0
+  index: -1
+lefttouch
+  rotate: false
+  xy: 1, 1
+  size: 717, 449
+  orig: 717, 449
+  offset: 0, 0
+  index: -1
+
+RBPacker8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+righttouch
+  rotate: false
+  xy: 1, 1
+  size: 717, 449
+  orig: 717, 449
+  offset: 0, 0
+  index: -1
